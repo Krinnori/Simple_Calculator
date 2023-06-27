@@ -1,2 +1,2 @@
 # Simple_Calculator
-LGM task-2(Using HTML,CSS and Javascript)
+LGM task-4(Using HTML,CSS and Javascript)
